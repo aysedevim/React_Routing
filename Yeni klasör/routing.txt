@@ -1,0 +1,15 @@
+routing - sayfalar arası gezinme
+
+React Router kütüphanesi sayfalar arasında gezinmek için bize etkin bir yol sunar.
+Bunu web uygulamasında kullanabilmemiz için React Router Dom kütüphanesi devreye giriyor.
+Bu kütüphanede bulunan bileşenler (component) sayesinde uygulama sayfaları arasında gezinmek 
+oldukça kolaylaşıyor.
+
+ikinci bir terminal ekle->npm i react-router-dom
+
+components->Layout.js->bootstrap(https://getbootstrap.com/docs/5.2/components/navbar/)->Layout içerisine ilk kodu yapıştır.
+
+https://console.firebase.google.com/project/books-f356a/overview
+
+
+postman e https://books-f356a-default-rtdb.firebaseio.com/ yapıştırarak metot oluştur.
